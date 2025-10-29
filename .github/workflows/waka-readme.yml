@@ -17,27 +17,27 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           # Core: Total-Focused Balance
-          SHOW_TOTAL_CODE_TIME: 'true'      # Total hours (e.g., "1,234 hrs")
-          SHOW_LANGUAGE: 'true'             # All-time top langs
-          SHOW_EDITORS: 'true'              # Editor prefs
-          SHOW_PROJECTS: 'true'             # Top projects by time
+          SHOW_TOTAL_CODE_TIME: 'true'  # Total hours (e.g., "1,234 hrs")
+          SHOW_LANGUAGE: 'true'         # All-time top langs
+          SHOW_EDITORS: 'true'          # Editor prefs
+          SHOW_PROJECTS: 'true'         # Top projects by time
           
           # Exclusions: Positive Only
-          SHOW_LINES_OF_CODE: 'false'       # No quantity
-          SHOW_COMMIT: 'false'              # No patterns
-          SHOW_OS: 'false'                  # Skipped
-          SHOW_PROFILE_VIEWS: 'true'        # Engagement
-          SHOW_UPDATED_DATE: 'true'         # Freshness
-          UPDATED_DATE_FORMAT: "%Y-%m-%d"   # Clean date
+          SHOW_LINES_OF_CODE: 'false'   # No quantity
+          SHOW_COMMIT: 'false'          # No patterns
+          SHOW_OS: 'false'              # Skipped
+          SHOW_PROFILE_VIEWS: 'true'    # Engagement
+          SHOW_UPDATED_DATE: 'true'     # Freshness
+          UPDATED_DATE_FORMAT: "%Y-%m-%d"  # Clean date
           
           # Visuals: Dark-Friendly
-          SYMBOL_VERSION: '2'               # Filled bars (blue-adapted in dark)
+          SYMBOL_VERSION: '2'           # Filled bars (blue-adapted in dark)
           LOCALE: 'en'
           
           # Commit
-          COMMIT_BY_ME: 'false'             # Bot
+          COMMIT_BY_ME: 'false'         # Bot (supported here)
           COMMIT_MESSAGE: 'chore: update total stats'
-          SECTION_NAME: 'waka'              # Matches first markers
+          SECTION_NAME: 'waka'          # Matches first markers
 
       # Step 2: Weekly Time Block (Total This Week + Top 3 Langs)
       - uses: athul/waka-readme@master
@@ -46,14 +46,14 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           # Weekly Config: Brief & Momentum-Focused
-          SHOW_TITLE: 'true'                # Header: "This Week"
-          TIME_RANGE: 'last_7_days'         # Weekly total
-          LANG_COUNT: 3                     # Top 3 (no clutter)
-          SHOW_TIME: 'true'                 # Time per lang
-          SHOW_TOTAL: 'true'                # Weekly total hours
+          SHOW_TITLE: 'true'            # Header: "This Week"
+          TIME_RANGE: 'last_7_days'     # Weekly total
+          LANG_COUNT: 3                 # Top 3 (no clutter)
+          SHOW_TIME: 'true'             # Time per lang
+          SHOW_TOTAL: 'true'            # Weekly total hours
           BLOCKS: '-▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯'  # Custom bar for dark pop (adjust if needed)
           
           # Polish
-          SECTION_NAME: 'waka-weekly'       # Matches second markers
+          SECTION_NAME: 'waka-weekly'   # Matches second markers
           COMMIT_MESSAGE: 'chore: update weekly stats'
-          COMMIT_BY_ME: 'false'             # Bot
+          # COMMIT_BY_ME removed: Not supported; defaults to bot commit
