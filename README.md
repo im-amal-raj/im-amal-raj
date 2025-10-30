@@ -1,14 +1,8 @@
-## Hi there 👋 I'm Amal
+req## Hi there 👋 I'm Amal
 
 
 
 
 <!--START_SECTION:waka-->
-
-
-
-
-
-
 <!--END_SECTION:waka-->
 
