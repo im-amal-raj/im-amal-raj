@@ -1,4 +1,4 @@
-req## Hi there 👋 I'm Amal
+## Hi there 👋 I'm Amal
 
 
 
