@@ -65,6 +65,18 @@ I'm a **Student and Web Developer** passionate about building full-stack applica
 ### 📊 My Coding Activity
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 28 October 2025 - To: 31 October 2025
+
+Total Time: 14 hrs 32 mins
+
+HTML         11 hrs 36 mins  >>>>>>>>>>>>>>>>>>>>-----   78.70 %
+Python       1 hr 46 mins    >>>----------------------   12.03 %
+CSS          1 hr 1 min      >>-----------------------   07.00 %
+Other        12 mins         -------------------------   01.45 %
+```
+
 <!--END_SECTION:waka-->
 
 
