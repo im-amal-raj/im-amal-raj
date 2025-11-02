@@ -1,0 +1,30 @@
+name: Generate Snake SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at midnight UTC every day
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: im-amal-raj
+          outputs: |
+            dist/snake.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push Snake SVG to the output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "generate snake svg"
+          add: "dist/snake*.svg"
+          branch: output
