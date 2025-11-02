@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/im-amal-raj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-im--amal--raj-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:amalMraj@proton.me" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&amp;to=amalMraj@proton.me&amp;tf=cm" target="_blank">
     <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
 </div>
