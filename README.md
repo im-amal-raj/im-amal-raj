@@ -90,6 +90,20 @@
 ### 📊 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 28 October 2025 - To: 03 November 2025
+
+Total Time: 18 hrs 58 mins
+
+HTML         12 hrs 14 mins  >>>>>>>>>>>>>>>>---------   63.74 %
+Python       4 hrs 42 mins   >>>>>>-------------------   24.56 %
+CSS          1 hr 18 mins    >>-----------------------   06.82 %
+Markdown     15 mins         -------------------------   01.36 %
+JavaScript   14 mins         -------------------------   01.25 %
+Other        12 mins         -------------------------   01.12 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
