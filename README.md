@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amal Raj</h1>
+<h1 align="center">Hi 👋, <a href="https://github.com/im-amal-raj">im-amal-raj</a></h1>
 <h3 align="center">Student · Full Stack Developer · Tech Enthusiast</h3>
 
 <div align="center">
