@@ -13,7 +13,7 @@
 ### 🌐 Find Me On The Web
 
 <div align="center">
-  <a href="https://im-amal-raj.github.io/portfolio/" target="_blank">
+  <a href="https://im-amal-raj.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/im-amal-raj/" target="_blank">
