@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/im-amal-raj">Amal Raj</a></h1>
-<h3 align="center">🎓 Student · 💻 Full Stack Developer · 🚀 Tech Enthusiast</h3>
-
-<!-- Avatar with perfect circular crop + always reflects latest profile photo -->
 <div align="center">
+  <h1 align="center">Hi 👋, I'm <a href="https://github.com/im-amal-raj">Amal Raj</a></h1>
+  <h3 align="center">🎓 Student · 💻 Full Stack Developer · 🚀 Tech Enthusiast</h3>
+
+  <!-- Avatar -->
   <img
     src="https://github.com/im-amal-raj.png?size=200"
     width="160"
@@ -17,9 +17,9 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <p><strong>Reach out across web, social, and professional platforms:</strong></p>
+  <p><strong>Reach out across the web on my professional and social platforms:</strong></p>
   
-  <!-- Primary Portfolio & Website -->
+  <!-- Portfolios -->
   <a href="https://im-amal-raj.carrd.co/" target="_blank" aria-label="Carrd Portfolio" title="Carrd · im-amal-raj">
     <img src="https://img.shields.io/badge/Carrd-Website-FF5A5F?style=for-the-badge&logo=carrd&logoColor=white" alt="Carrd Portfolio" />
   </a>
@@ -34,6 +34,9 @@
   <a href="https://stackoverflow.com/users/31883145/im-amal-raj" target="_blank" aria-label="Stack Overflow Profile" title="Stack Overflow · im-amal-raj">
     <img src="https://img.shields.io/badge/StackOverflow-im--amal--raj-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Profile" />
   </a>
+  <a href="https://www.hackerearth.com/@im-amal-raj/" target="_blank" aria-label="HackerEarth Profile" title="HackerEarth · @im-amal-raj">
+    <img src="https://img.shields.io/badge/HackerEarth-im--amal--raj-2D3748?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth Profile" />
+  </a>
   
   <!-- Dev Community & Content -->
   <a href="https://dev.to/im-amal-raj" target="_blank" aria-label="dev.to Profile" title="dev.to · im-amal-raj">
@@ -42,11 +45,8 @@
   <a href="https://www.kaggle.com/imamalraj" target="_blank" aria-label="Kaggle Profile" title="Kaggle · imamalraj">
     <img src="https://img.shields.io/badge/Kaggle-imamalraj-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
   </a>
-  <a href="https://www.hackerearth.com/@im-amal-raj/" target="_blank" aria-label="HackerEarth Profile" title="HackerEarth · im-amal-raj">
-    <img src="https://img.shields.io/badge/HackerEarth-im--amal--raj-2EC1AC?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth Profile" />
-  </a>
   
-  <!-- Social & News Platforms -->
+  <!-- Social & Other Platforms -->
   <a href="https://x.com/imamalraj" target="_blank" aria-label="X/Twitter Profile" title="X · @imamalraj">
     <img src="https://img.shields.io/badge/X-@imamalraj-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
   </a>
@@ -70,26 +70,32 @@
 | Key Info | Details |
 |----------|---------|
 | **Location** | 🇮🇳 Kerala, India |
-| **Status** | 🎓 Student · Open to Freelance · Internships · Entry-level roles |
-| **Focus** | Full Stack Web Development · Backend Architecture · Community Projects |
+| **Status** | 🎓 Student actively seeking Freelance, Internship, and Entry-level roles. |
+| **Focus** | Full Stack Web Development, robust Backend Architecture, and collaborative Community Projects. |
 
 ---
 
-## 💻 Tech Stack & Skills
+<details>
+<summary><h2>💻 Tech Stack & Skills</h2></summary>
 
 ### 🔤 Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash" alt="Languages: Python, JavaScript, HTML, CSS, Bash" />
 </div>
 
-### 🎨 Web Frameworks & Libraries
+### 🎨 Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,bootstrap" alt="Frameworks: Django, React, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript" alt="Frontend: React, Bootstrap, HTML, CSS, JavaScript" />
 </div>
 
-### 🛠️ Tools, Databases & DevOps
+### ⚙️ Backend & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,sqlite,bash,vscode" alt="Tools: Git, GitHub, GitLab, SQLite, Bash, VS Code" />
+  <img src="https://skillicons.dev/icons?i=django,sqlite" alt="Backend: Django, SQLite" />
+</div>
+
+### 🛠️ DevOps & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,vscode" alt="Tools: Git, GitHub, GitLab, Bash, VS Code" />
 </div>
 
 ### 🤖 Specialized Skills
@@ -98,20 +104,22 @@
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
 </div>
+</details>
 
 ---
 
 ## 🚀 Currently Learning & Building
 
-- **Web Fundamentals:** Deepening knowledge of **HTML, CSS, JavaScript** (via Odin Project & Entri Elevate)
-- **React Ecosystem:** Building modern, interactive frontend applications
-- **Python Mastery:** Advanced concepts and best practices (W3Schools foundation)
-- **Django Backend:** Robust, scalable server-side development
-- **Full Stack Integration:** Connecting frontend and backend into cohesive applications
+- **Web Fundamentals:** Deepening knowledge of **HTML, CSS, JavaScript** (via The Odin Project & Entri Elevate).
+- **React Ecosystem:** Building modern, interactive frontend applications.
+- **Python Mastery:** Advancing with complex concepts and best practices.
+- **Django Backend:** Architecting robust, scalable server-side solutions.
+- **Full Stack Integration:** Seamlessly connecting frontend and backend systems into cohesive applications.
 
 ---
 
-## 📊 GitHub Statistics & Activity
+<details>
+<summary><h2>📊 GitHub Statistics & Activity</h2></summary>
 
 <div align="center">
   <!-- GitHub Overall Stats -->
@@ -133,28 +141,23 @@
   />
 
   <!-- Profile Views Counter -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=im-amal-raj&label=Profile%20Views&color=0e75b6&style=flat-square" 
-    alt="Profile Views Counter" 
-  />
+  <a href="https://github.com/im-amal-raj">
+    <img 
+      src="https://komarev.com/ghpvc/?username=im-amal-raj&label=Profile%20Views&color=0e75b6&style=flat-square" 
+      alt="Profile Views Counter" 
+    />
+  </a>
 </div>
 
----
-
-## 📈 Coding Time Breakdown
-
-### Wakatime Badge
+### 📈 Weekly Coding Activity
 <div align="center">
   <a href="https://wakatime.com/@5e4a2dc4-f101-4403-9e69-2818cca83b0d" target="_blank" aria-label="WakaTime coding activity">
     <img src="https://wakatime.com/badge/user/5e4a2dc4-f101-4403-9e69-2818cca83b0d.svg" alt="Wakatime Badge" />
   </a>
 </div>
 
-### 📊 Weekly Coding Activity
-
 <!--START_SECTION:waka-->
-
-````rust
+```text
 From: 28 October 2025 - To: 14 November 2025
 
 Total Time: 34 hrs 18 mins
@@ -166,9 +169,10 @@ JavaScript    1 hr 28 mins    >------------------------   04.26 %
 XML           23 mins         -------------------------   01.11 %
 Markdown      18 mins         -------------------------   00.91 %
 Other         13 mins         -------------------------   00.63 %
-````
-
+```
 <!--END_SECTION:waka-->
+
+</details>
 
 ---
 
@@ -187,43 +191,33 @@ Other         13 mins         -------------------------   00.63 %
 
 ## 📌 Featured Projects
 
-Explore my pinned repositories on [GitHub](https://github.com/im-amal-raj) featuring:
-- **Django Applications** — Full-stack web apps with authentication, databases, and APIs
-- **Discord Bots** — Python & JavaScript automation with rich features
-- **Web Applications** — Modern frontends built with React and vanilla JavaScript
-- **Open Source Contributions** — Collaborative projects and community involvement
+I invite you to explore my pinned repositories, which include:
+- **Django Applications** — Full-stack web apps with authentication, databases, and APIs.
+- **Discord Bots** — Automation tools with rich features using Python & JavaScript.
+- **Web Applications** — Modern frontends built with React and vanilla JavaScript.
+- **Open Source Contributions** — My involvement in collaborative and community-driven projects.
 
-[**→ View All Projects**](https://github.com/im-amal-raj?tab=repositories)
+[**→ View All Projects on GitHub**](https://github.com/im-amal-raj?tab=repositories)
 
 ---
 
 ## 🤝 Let's Collaborate!
 
-I'm actively seeking opportunities to:
-- ✅ Contribute to open-source projects
-- ✅ Build real-world applications
-- ✅ Learn from experienced developers
-- ✅ Collaborate on innovative ideas
+I'm always looking for opportunities to:
+- ✅ Contribute to open-source projects.
+- ✅ Build real-world applications and gain experience.
+- ✅ Learn from experienced developers and mentors.
+- ✅ Collaborate on innovative and exciting ideas.
 
-**Feel free to:**
-- ⭐ Star interesting repositories
-- 🔗 Connect on LinkedIn
-- 💬 Reach out via email
-- 📧 Discuss ideas on Dev.to or HackerNews
-
----
-
-## 📝 License & Credits
-
-This profile README is open to inspiration and collaboration. Feel free to adapt and create your own!
-
-**Last Updated:** November 2025
+Feel free to reach out if you want to connect!
 
 ---
 
 <div align="center">
   <p><strong>Thanks for visiting! Happy coding! 🎉</strong></p>
   
-  ![TypeScript](https://img.shields.io/badge/Made%20with-HTML%20%26%20Markdown-red?style=flat-square)
-  ![GitHub](https://img.shields.io/badge/Hosted%20on-GitHub-blue?style=flat-square)
+  ![Made with HTML & Markdown](https://img.shields.io/badge/Made%20with-HTML%20%26%20Markdown-red?style=flat-square)
+  ![Hosted on GitHub](https://img.shields.io/badge/Hosted%20on-GitHub-blue?style=flat-square)
+  <br>
+  <small>Last Updated: November 2025</small>
 </div>
