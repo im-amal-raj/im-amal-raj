@@ -157,12 +157,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-```text
-From: 28 October 2025 - To: 14 November 2025
+
+```rust
+From: 28 October 2025 - To: 15 November 2025
 
 Total Time: 34 hrs 18 mins
 
-HTML          16 hrs 20 mins  >>>>>>>>>>>>-------------   47.34 %
+HTML          16 hrs 20 mins  >>>>>>>>>>>>-------------   47.35 %
 Python        12 hrs 27 mins  >>>>>>>>>----------------   36.10 %
 CSS           2 hrs 46 mins   >>-----------------------   08.05 %
 JavaScript    1 hr 28 mins    >------------------------   04.26 %
@@ -170,6 +171,7 @@ XML           23 mins         -------------------------   01.11 %
 Markdown      18 mins         -------------------------   00.91 %
 Other         13 mins         -------------------------   00.63 %
 ```
+
 <!--END_SECTION:waka-->
 
 </details>
