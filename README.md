@@ -69,6 +69,7 @@
 
 | Key Info | Details |
 |----------|---------|
+| **Name** | Amal Raj , im-amal-raj |
 | **Location** | 🇮🇳 Kerala, India |
 | **Status** | 🎓 Student actively seeking Freelance, Internship, and Entry-level roles. |
 | **Focus** | Full Stack Web Development, robust Backend Architecture, and collaborative Community Projects. |
