@@ -81,20 +81,22 @@
 
 ---
 
+<div align="center">
+
 ## 📍 About Me
 
-<div align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-</div>
+<img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 <br/>
 
 | Key Info | Details |
-|----------|---------|
+| :--- | :--- |
 | **Name** | Amal Raj (im-amal-raj) |
 | **Location** | 🇮🇳 Kerala, India |
 | **Status** | 🎓 Student actively seeking Freelance, Internship, and Entry-level roles |
 | **Focus** | Full Stack Web Development, Backend Architecture, Community Projects |
+
+</div>
 
 ### 🎯 What I'm Up To
 
