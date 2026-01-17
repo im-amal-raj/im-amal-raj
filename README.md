@@ -83,7 +83,11 @@
 
 ## 📍 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
+
+<br/>
 
 | Key Info | Details |
 |----------|---------|
@@ -99,8 +103,6 @@
 - 👯 Looking to collaborate on **Open Source & Web Applications**
 - 💬 Ask me about **Python, Django, JavaScript, Discord Bots**
 - ⚡ Fun fact: I turn ☕ into `<code/>`
-
-<br clear="right"/>
 
 ---
 
