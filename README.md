@@ -85,7 +85,7 @@
 
 ## 📍 About Me
 
-<img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img alt="Coding" width="400" src="https://github.com/im-amal-raj/im-amal-raj/blob/main/assets/coding.gif"/>
 
 <br/>
 
